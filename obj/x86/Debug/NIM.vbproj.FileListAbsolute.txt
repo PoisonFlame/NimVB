@@ -1,0 +1,55 @@
+C:\Users\302178\AppData\Local\Temporary Projects\NIM\bin\Debug\NIM.exe
+C:\Users\302178\AppData\Local\Temporary Projects\NIM\bin\Debug\NIM.pdb
+C:\Users\302178\AppData\Local\Temporary Projects\NIM\bin\Debug\NIM.xml
+C:\Users\302178\AppData\Local\Temporary Projects\NIM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\302178\AppData\Local\Temporary Projects\NIM\obj\x86\Debug\NIM.Form1.resources
+C:\Users\302178\AppData\Local\Temporary Projects\NIM\obj\x86\Debug\NIM.Resources.resources
+C:\Users\302178\AppData\Local\Temporary Projects\NIM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\302178\AppData\Local\Temporary Projects\NIM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\302178\AppData\Local\Temporary Projects\NIM\obj\x86\Debug\NIM.exe
+C:\Users\302178\AppData\Local\Temporary Projects\NIM\obj\x86\Debug\NIM.xml
+C:\Users\302178\AppData\Local\Temporary Projects\NIM\obj\x86\Debug\NIM.pdb
+E:\Computer Science\NIM\obj\x86\Debug\NIM.exe
+E:\Computer Science\NIM\obj\x86\Debug\NIM.xml
+E:\Computer Science\NIM\obj\x86\Debug\NIM.pdb
+E:\Computer Science\NIM\bin\Debug\NIM.exe
+E:\Computer Science\NIM\bin\Debug\NIM.pdb
+E:\Computer Science\NIM\bin\Debug\NIM.xml
+E:\Computer Science\NIM\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Computer Science\NIM\obj\x86\Debug\NIM.Form1.resources
+E:\Computer Science\NIM\obj\x86\Debug\NIM.Resources.resources
+E:\Computer Science\NIM\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Computer Science\NIM\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Computer Science\NIMv1\obj\x86\Debug\NIM.exe
+E:\Computer Science\NIMv1\obj\x86\Debug\NIM.xml
+E:\Computer Science\NIMv1\obj\x86\Debug\NIM.pdb
+E:\Computer Science\NIMv1\bin\Debug\NIM.exe
+E:\Computer Science\NIMv1\bin\Debug\NIM.pdb
+E:\Computer Science\NIMv1\bin\Debug\NIM.xml
+E:\Computer Science\NIMv1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Computer Science\NIMv1\obj\x86\Debug\NIM.Form1.resources
+E:\Computer Science\NIMv1\obj\x86\Debug\NIM.Resources.resources
+E:\Computer Science\NIMv1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Computer Science\NIMv1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Computer Science\NIM Good Backup - Time\obj\x86\Debug\NIM.exe
+E:\Computer Science\NIM Good Backup - Time\obj\x86\Debug\NIM.xml
+E:\Computer Science\NIM Good Backup - Time\obj\x86\Debug\NIM.pdb
+E:\Computer Science\NIM Good Backup - Time\bin\Debug\NIM.exe
+E:\Computer Science\NIM Good Backup - Time\bin\Debug\NIM.pdb
+E:\Computer Science\NIM Good Backup - Time\bin\Debug\NIM.xml
+E:\Computer Science\NIM Good Backup - Time\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Computer Science\NIM Good Backup - Time\obj\x86\Debug\NIM.Form1.resources
+E:\Computer Science\NIM Good Backup - Time\obj\x86\Debug\NIM.Resources.resources
+E:\Computer Science\NIM Good Backup - Time\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Computer Science\NIM Good Backup - Time\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Computer Science\NIM Good Backup - Time + MiniGame\obj\x86\Debug\NIM.exe
+E:\Computer Science\NIM Good Backup - Time + MiniGame\obj\x86\Debug\NIM.xml
+E:\Computer Science\NIM Good Backup - Time + MiniGame\obj\x86\Debug\NIM.pdb
+E:\Computer Science\NIM Good Backup - Time + MiniGame\bin\Debug\NIM.exe
+E:\Computer Science\NIM Good Backup - Time + MiniGame\bin\Debug\NIM.pdb
+E:\Computer Science\NIM Good Backup - Time + MiniGame\bin\Debug\NIM.xml
+E:\Computer Science\NIM Good Backup - Time + MiniGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Computer Science\NIM Good Backup - Time + MiniGame\obj\x86\Debug\NIM.Form1.resources
+E:\Computer Science\NIM Good Backup - Time + MiniGame\obj\x86\Debug\NIM.Resources.resources
+E:\Computer Science\NIM Good Backup - Time + MiniGame\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Computer Science\NIM Good Backup - Time + MiniGame\obj\x86\Debug\GenerateResource.write.1.tlog
